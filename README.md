@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ferdin914/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ferdin914/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ferdin914/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ferdin914/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ferdin914/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/ferdin914/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ferdin914/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ferdin914/Leetcode/tree/master/0326-power-of-three) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
