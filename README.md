@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ferdin914/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ferdin914/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
+| [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ferdin914/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ferdin914/Leetcode/tree/master/0169-majority-element) |
+| [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ferdin914/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
+| [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
