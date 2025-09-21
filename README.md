@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ferdin914/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
 | [0474-ones-and-zeroes](https://github.com/ferdin914/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0539-minimum-time-difference](https://github.com/ferdin914/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0932-monotonic-array](https://github.com/ferdin914/Leetcode/tree/master/0932-monotonic-array) |
 | [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ferdin914/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/ferdin914/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
+| [0539-minimum-time-difference](https://github.com/ferdin914/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ferdin914/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
 | [0474-ones-and-zeroes](https://github.com/ferdin914/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0539-minimum-time-difference](https://github.com/ferdin914/Leetcode/tree/master/0539-minimum-time-difference) |
 | [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ferdin914/Leetcode/tree/master/0326-power-of-three) |
+| [0539-minimum-time-difference](https://github.com/ferdin914/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/ferdin914/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
