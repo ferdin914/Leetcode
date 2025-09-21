@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ferdin914/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ferdin914/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
+| [0474-ones-and-zeroes](https://github.com/ferdin914/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0932-monotonic-array](https://github.com/ferdin914/Leetcode/tree/master/0932-monotonic-array) |
 | [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ferdin914/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
+| [0474-ones-and-zeroes](https://github.com/ferdin914/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ferdin914/Leetcode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
