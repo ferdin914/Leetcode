@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ferdin914/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ferdin914/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ferdin914/Leetcode/tree/master/0179-largest-number) |
+| [0932-monotonic-array](https://github.com/ferdin914/Leetcode/tree/master/0932-monotonic-array) |
 | [3797-design-spreadsheet](https://github.com/ferdin914/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
